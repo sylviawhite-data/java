@@ -15,3 +15,7 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+
+name: GitHub Action for Firebase
+
+uses: w9jds/firebase-action@v1.1.0
